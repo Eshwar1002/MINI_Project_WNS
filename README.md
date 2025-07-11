@@ -1,2 +1,1 @@
-# MINI_Project_WNS
-This is our project for Devops 
+# WNS_MINI_Devops
